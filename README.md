@@ -61,8 +61,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |   2  | Alta       | Visualizar dashboard inicial com indicadores gerais    |     13     |    1   |
 |   3  | Alta       | Aplicar filtros temporais nos dados                    |      8     |    1   |
 |   4  | Alta       | Comparar municípios e regiões                          |     13     |    1   |
-|   5  | Média      | Visualizar dados em mapa interativo                    |     20     |    1   |
-|   6  | Alta       | Identificar principais produtos comercializados        |      8     |    1   |
+|   5  | Alta       | Identificar principais produtos comercializados        |      8     |    1   |
 
 ---
 
