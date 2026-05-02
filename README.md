@@ -1,7 +1,7 @@
 # githubAPI
 Projeto de API da FATEC na disciplina de Logística que reúne dados sobre exportação e importação no estado de São Paulo, com foco no vale do paraíba.
 
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) 
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub".
 
