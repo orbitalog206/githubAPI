@@ -94,9 +94,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Registro das Sprints
 
-|       Sprint      |  Previsão  |  Status | Histórico |
-|-------------------|------------|---------|-----------|
-|         01        | dd/mm/aaaa | a fazer |    MVP    |
-|         02        | dd/mm/aaaa | a fazer |    MVP    |
-|         03        | dd/mm/aaaa | a fazer |    MVP    |
-| Feira de Soluções | dd/mm/aaaa | a fazer |    MVP    |
+|       Sprint      |  Previsão  |  Status  | Histórico |
+|-------------------|------------|----------|-----------|
+|         01        | dd/mm/aaaa | Entregue |<img width="872" height="484" alt="image" src="https://github.com/user-attachments/assets/8c88bb4f-b539-4021-8185-5189cac4ea34" />|
+|         02        | dd/mm/aaaa | a fazer  |    MVP    |
+|         03        | dd/mm/aaaa | a fazer  |    MVP    |
+| Feira de Soluções | dd/mm/aaaa | a fazer  |    MVP    |
