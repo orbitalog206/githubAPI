@@ -23,10 +23,17 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+### 🟨 Sprint 2 – Análises Avançadas e Estratégia
+
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|-----------|------------|------------|--------|
+| 7 | Alta | Identificar mercados emergentes | 13 | 2 |
+| 8 | Alta | Visualizar gráficos de tendência | 13 | 2 |
+| 9 | Alta | Analisar diversificação de produtos | 8 | 2 |
+| 10 | Alta | Visualizar matriz origem-destino | 20 | 2 |
+| 11 | Média | Identificar parceiros comerciais | 8 | 2 |
+| 12 | Média | Comparações avançadas entre regiões | 13 | 2 |
+| 20 | Alta | Analisar impacto de políticas econômicas | 20 | 2 |
 
 ---
 
