@@ -1,24 +1,52 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [OrbitaLog]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+## 🎯 Objetivo do MVP:
+> O MVP tem como objetivo fornecer uma plataforma analítica para visualização e interpretação de dados comerciais e econômicos, permitindo identificar tendências, mercados emergentes e relações comerciais estratégicas.
+> ## Problema que resolve:
+- Dificuldade em analisar grandes volumes de dados comerciais de forma rápida e estratégica para tomada de decisão.
+>  ## Hipóteses coletadas:
+- Usuários conseguem tomar decisões mais assertivas ao utilizar dashboards interativos com análises visuais e comparativas.
+> ## Valor entregue ao usuário final: 
+- Identificação de oportunidades de mercado;
+- Visualização clara de tendências comerciais;
+- Comparação estratégica entre regiões e parceiros;
+- Apoio à tomada de decisão baseada em dados.
 
 ---
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## 📝 Descrição da Solução:
+> Desenvolvimento de uma plataforma com dashboards analíticos e visualizações interativas focadas em comércio e indicadores econômicos.
+## Funcionalidades principais incluídas:
+-Identificação de mercados emergentes;
+-Gráficos de tendência;
+-Comparação entre regiões;
+-Visualização de matriz origem-destino;
+-Identificação de parceiros comerciais;
+-Análise de diversificação de produtos;
+## Limitações conhecidas:
+- Dados limitados ao período disponível na base inicial;
+-Sem previsões avançadas com IA no MVP;
+-Exportações e relatórios simplificados.
+
+## Escopo reduzido:
+- Implementar apenas funcionalidades essenciais para validar o uso das análises visuais e estratégicas pelos usuários.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- ## Persona 1 — Analista de Mercado:
+Profissional responsável por analisar dados econômicos e comerciais para identificar tendências e oportunidades de negócio.
+## Necessidades e dores atendidas:
+-Centralizar análises em uma única plataforma;
+-Reduzir tempo de interpretação de dados;
+-Obter insights visuais rápidos e confiáveis.
+
+- ## Persona 2 — Gestor Estratégico:
+Tomador de decisão que utiliza indicadores econômicos para planejamento comercial e expansão de mercado.
+## Necessidades e dores atendidas:
+-Comparar regiões e parceiros comerciais;
+-Avaliar impactos econômicos rapidamente;
+-Apoiar decisões estratégicas com dados consolidados.
 
 ---
 
@@ -41,14 +69,23 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | [Análise Estratégica]                           | Em andamento |
 
 ---
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário analise o comércio exterior dos municípios do estado de São Paulo, com foco em São José dos Campos.
-- O sistema deve registrar dados de importação e exportação, crescimento anual, se exite estagnação, ou queda no comércio internacional.  
-- Métricas coletadas: Importação e exportação dos últimos anos, retirados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, 
+##  📊 Critérios de Aceitação
+O MVP deve permitir que o usuário identifique mercados emergentes com base em tendências de crescimento e volume comercial.
+O sistema deve permitir a visualização de gráficos interativos de tendência para análise temporal de dados econômicos e comerciais.
+O MVP deve possibilitar comparações entre regiões, parceiros comerciais e categorias de produtos.
+O sistema deve exibir uma matriz origem-destino para visualização das relações comerciais entre regiões e países.
+O usuário deve conseguir analisar a diversificação de produtos por mercado ou região selecionada.
+O sistema deve registrar consultas, filtros aplicados e interações com dashboards analíticos.
+
+## Métricas coletadas:
+Tempo de carregamento dos dashboards
+Frequência de uso das análises avançadas
+Quantidade de comparações realizadas entre regiões
+Número de acessos às visualizações de tendências   
 
 ---
 
