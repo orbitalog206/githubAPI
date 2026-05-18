@@ -39,9 +39,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário analise o comércio exterior dos municípios do estado de São Paulo, com foco em São José dos Campos.
+- O sistema deve registrar dados de importação e exportação, crescimento anual, se exite estagnação, ou queda no comércio internacional.  
+- Métricas coletadas: Importação e exportação dos últimos anos, retirados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, 
 
 ---
 
