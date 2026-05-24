@@ -28,7 +28,6 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 | Team Member    | Inaê Tais da Rosa Silva                         | Linkedin Badge GitHub Badge |
 | Team Member    | Fernanda Fernandes Caldi Palma                  | Linkedin Badge GitHub Badge |
 | Team Member    | Isabella Carvalho Leite                         | Linkedin Badge GitHub Badge |
-| Team Member    | Thiago Silva Martins                            | Linkedin Badge GitHub Badge |
 | Team Member    | Gustavo Henrique Funari da Silva Oliveira       | Linkedin Badge GitHub Badge |
 
 ## Objetivo do Projeto
