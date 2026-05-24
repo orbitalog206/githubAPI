@@ -107,4 +107,3 @@ Número de acessos às visualizações de tendências
 <img width="871" height="491" alt="image" src="https://github.com/user-attachments/assets/30e7ab2e-8473-46cc-9190-48a8a737d11f" />
 
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
