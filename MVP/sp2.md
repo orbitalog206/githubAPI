@@ -106,4 +106,4 @@ Número de acessos às visualizações de tendências
 ## 📂 Anexos / Evidências
 <img width="871" height="491" alt="image" src="https://github.com/user-attachments/assets/30e7ab2e-8473-46cc-9190-48a8a737d11f" />
 
-- Fluxos ou protótipos  
+  https://github.com/user-attachments/assets/e4e11b41-9a97-4189-abf8-5525466f3431
