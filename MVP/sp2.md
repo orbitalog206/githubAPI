@@ -107,3 +107,6 @@ Número de acessos às visualizações de tendências
 <img width="871" height="491" alt="image" src="https://github.com/user-attachments/assets/30e7ab2e-8473-46cc-9190-48a8a737d11f" />
 
   https://github.com/user-attachments/assets/e4e11b41-9a97-4189-abf8-5525466f3431
+
+  <img width="1215" height="480" alt="image" src="https://github.com/user-attachments/assets/e6fcc751-d64e-4e84-a748-12d5eabe855f" />
+
