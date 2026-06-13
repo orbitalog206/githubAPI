@@ -1,10 +1,10 @@
 # 🎯 Objetivo do MVP
 
-Desenvolver um **dashboard analítico voltado para logística e estratégia**, permitindo visualizar informações relacionadas ao transporte, sazonalidade e cadeias produtivas para apoiar tomadas de decisão.
+> Desenvolver um **dashboard analítico voltado para logística e estratégia**, permitindo visualizar informações relacionadas ao transporte, sazonalidade e cadeias produtivas para apoiar tomadas de decisão.
 
 ### **Problema que se resolve**
 
-Dificuldade em consolidar, interpretar e acompanhar dados logísticos e estratégicos em um único ambiente.
+> Dificuldade em consolidar, interpretar e acompanhar dados logísticos e estratégicos em um único ambiente.
 
 ### **Hipóteses que serão validadas**
 
