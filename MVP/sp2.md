@@ -1,12 +1,12 @@
 # 📌 MVP - [OrbitaLog]
 
 ## 🎯 Objetivo do MVP:
-> O MVP tem como objetivo fornecer uma plataforma analítica para visualização e interpretação de dados comerciais e econômicos, permitindo identificar tendências, mercados emergentes e relações comerciais estratégicas.
-> ## Problema que resolve:
+O MVP tem como objetivo fornecer uma plataforma analítica para visualização e interpretação de dados comerciais e econômicos, permitindo identificar tendências, mercados emergentes e relações comerciais estratégicas.
+## Problema que resolve:
 - Dificuldade em analisar grandes volumes de dados comerciais de forma rápida e estratégica para tomada de decisão.
->  ## Hipóteses coletadas:
+ ## Hipóteses coletadas:
 - Usuários conseguem tomar decisões mais assertivas ao utilizar dashboards interativos com análises visuais e comparativas.
-> ## Valor entregue ao usuário final: 
+ ## Valor entregue ao usuário final: 
 - Identificação de oportunidades de mercado;
 - Visualização clara de tendências comerciais;
 - Comparação estratégica entre regiões e parceiros;
@@ -15,7 +15,7 @@
 ---
 
 ## 📝 Descrição da Solução:
-> Desenvolvimento de uma plataforma com dashboards analíticos e visualizações interativas focadas em comércio e indicadores econômicos.
+Desenvolvimento de uma plataforma com dashboards analíticos e visualizações interativas focadas em comércio e indicadores econômicos.
 ## Funcionalidades principais incluídas:
 -Identificação de mercados emergentes;
 -Gráficos de tendência;
