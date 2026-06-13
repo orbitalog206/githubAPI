@@ -80,10 +80,10 @@ Responsável por acompanhar desempenho entre municípios e regiões.
 
 | ID  | História do Usuário                                                                                                     | Prioridade | Estimativa |
 | --- | ----------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| US1 | Como **usuário**, quero **coletar e visualizar dados de comércio exterior** para **acompanhar indicadores gerais**.     | Alta       | 20 pts     |
-| US2 | Como **usuário**, quero **aplicar filtros temporais** para **realizar análises específicas**.                           | Alta       | 8 pts      |
-| US3 | Como **gestor**, quero **comparar municípios e regiões** para **identificar diferenças e oportunidades**.               | Alta       | 13 pts     |
-| US4 | Como **usuário**, quero **identificar os principais produtos comercializados** para **entender tendências comerciais**. | Alta       | 8 pts      |
+| US1 | Como usuário, quero coletar e visualizar dados de comércio exterior para acompanhar indicadores gerais.     | Alta       | 20 pts     |
+| US2 | Como usuário, quero aplicar filtros temporais para realizar análises específicas.                           | Alta       | 8 pts      |
+| US3 | Como gestor, quero comparar municípios e regiões para identificar diferenças e oportunidades.               | Alta       | 13 pts     |
+| US4 | Como usuário, quero identificar os principais produtos comercializados para entender tendências comerciais. | Alta       | 8 pts      |
 
 ---
 
