@@ -1,65 +1,135 @@
-# 📌 MVP - [Nome do Projeto]
+# 🎯 Objetivo do MVP
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Desenvolver um **dashboard analítico voltado para logística e estratégia**, permitindo visualizar informações relacionadas ao transporte, sazonalidade e cadeias produtivas para apoiar tomadas de decisão.
 
----
+### **Problema que se resolve**
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Dificuldade em consolidar, interpretar e acompanhar dados logísticos e estratégicos em um único ambiente.
 
----
+### **Hipóteses que serão validadas**
 
-## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+* Usuários conseguem interpretar dados logísticos com mais rapidez por meio de visualizações centralizadas;
+* A análise de sazonalidade auxilia na tomada de decisões;
+* Melhorias de experiência do usuário aumentam a eficiência na consulta de informações.
+
+### **Valor entregue ao usuário final**
+
+Disponibilização de uma plataforma com acesso simplificado a dados estratégicos e logísticos para análise e tomada de decisão.
 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+# 📝 Descrição da Solução
+
+Será desenvolvido um **dashboard analítico** com foco em logística, comportamento dos dados e experiência do usuário.
+
+### **Funcionalidades principais incluídas**
+
+* Análise dos modais de transporte utilizados;
+* Estudo da sazonalidade dos dados;
+* Mapeamento de cadeias produtivas;
+* Identificação de riscos econômicos e dependências;
+* Melhorias na usabilidade do dashboard;
+* Navegação otimizada;
+* Compatibilidade com dispositivos móveis.
+
+### **Limitações conhecidas**
+
+* Escopo reduzido para validação inicial;
+* Recursos avançados de análise ainda não implementados.
+
+### **Escopo reduzido**
+
+Disponibilizar apenas funcionalidades essenciais para validar a navegação, leitura dos dados e experiência do usuário.
 
 ---
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+# 👥 Personas / Usuários-Alvo
+
+## **Pessoa 1: Analista Logístico**
+
+Responsável pelo acompanhamento de informações de transporte e suporte às decisões operacionais.
+
+**Necessidades:**
+
+* Visualização rápida dos dados;
+* Identificação de gargalos;
+* Apoio estratégico.
+
+**Problemas atendidos:**
+
+* Dificuldade em consolidar informações.
 
 ---
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+## **Pessoa 2: Gestor Operacional**
+
+Responsável pelo acompanhamento de desempenho e tomada de decisões.
+
+**Necessidades:**
+
+* Entender tendências e sazonalidade;
+* Consultar dados em diferentes dispositivos.
+
+**Problemas atendidos:**
+
+* Tempo elevado para análise manual.
 
 ---
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+# 🔑 Histórias de Usuário (Backlog para MVP)
+
+| ID  | História do Usuário                                                                                                            | Prioridade | Estimativa |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| US1 | Como **analista logístico**, quero **analisar os modais de transporte utilizados** para **compreender impactos operacionais**. | Alta       | 13 pts     |
+| US2 | Como **gestor**, quero **estudar a sazonalidade dos dados** para **identificar padrões e melhorar decisões**.                  | Alta       | 8 pts      |
+| US3 | Como **usuário**, quero **acessar pelo celular** para **realizar consultas rápidas**.                                          | Média      | 5 pts      |
 
 ---
 
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+# 📅 Sprint(s) Relacionadas
+
+| Sprint    | Entregas Principais                               | Status      |
+| --------- | ------------------------------------------------- | ----------- |
+| Sprint 03 | Análise de modais de transporte                   | ✅ Concluída |
+| Sprint 03 | Estudo da sazonalidade dos dados                  | ✅ Concluída |
+| Sprint 03 | Mapeamento das cadeias produtivas                 | ✅ Concluída |
+| Sprint 03 | Identificação de riscos econômicos e dependências | ✅ Concluída |
+| Sprint 03 | Melhorias na usabilidade do dashboard             | ✅ Concluída |
+| Sprint 03 | Navegação e performance                           | ✅ Concluída |
+| Sprint 03 | Acesso e otimização mobile                        | ✅ Concluída |
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+# 📊 Critérios de Aceitação
+
+* O MVP deve permitir que o usuário consulte e interprete dados logísticos;
+* O sistema deve registrar consultas realizadas;
+* O dashboard deve apresentar navegação funcional em ambiente mobile;
+* Coletar métricas de desempenho e utilização.
+
+---
+
+# 📈 Métricas de Validação
+
+* Número de usuários que testaram o MVP;
+* Feedback qualitativo (positivo e negativo);
+* Taxa de utilização das funcionalidades principais;
+* Tempo médio para encontrar informações;
+* Indicadores de adoção da solução.
+
+---
+
+# 🚀 Próximos Passos
+
+* Ajustar funcionalidades com base no feedback recebido;
+* Expandir recursos analíticos;
+* Melhorar experiência mobile;
+* Evoluir funcionalidades estratégicas e de desempenho.
+
+---
+
+# 📂 Anexos / Evidências
+
+* 📸 Capturas de tela do dashboard
+* 🔄 Fluxos de navegação
+* 🎥 Vídeo demonstrativo do MVP
