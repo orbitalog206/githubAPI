@@ -69,7 +69,7 @@ Tomador de decisão que utiliza indicadores econômicos para planejamento comerc
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Indicadores de comparação principais produtos comercializados e países envolvidos]   | Concluído |
-| 02     | [Análise Estratégica]                           | Em andamento |
+| 02     | [Análise Estratégica]                           | Concluído |
 
 ---
 
