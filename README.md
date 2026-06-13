@@ -23,13 +23,13 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
  
 | Função         |                  Nome                           |      LinkedIn & GitHub      |
 |----------------|-------------------------------------------------|-----------------------------|
-| Product Owner  | Nicolly de Araújo Silva                         | Linkedin Badge GitHub Badge |
-| Scrum Master   | João Felipe Góes de Oliveira                    | Linkedin Badge GitHub Badge |
-| Team Member    | Inaê Tais da Rosa Silva                         | Linkedin Badge GitHub Badge |
-| Team Member    | Fernanda Fernandes Caldi Palma                  | Linkedin Badge GitHub Badge |
-| Team Member    | Isabella Carvalho Leite                         | Linkedin Badge GitHub Badge |
-| Team Member    | Gustavo Henrique Funari da Silva Oliveira       | Linkedin Badge GitHub Badge |
-| Team Member    | Manuela Maria Magalhães Mendes                  | Linkedin Badge GitHub Badge |
+| Product Owner  | Nicolly de Araújo Silva                         | Nicolly Araújo | nicollyaraujo-del |
+| Scrum Master   | João Felipe Góes de Oliveira                    | Funari Gustavo | funari_guh |
+| Team Member    | Inaê Tais da Rosa Silva                         |  |
+| Team Member    | Fernanda Fernandes Caldi Palma                  | Fernanda Caldi | fernandacaldi |
+| Team Member    | Isabella Carvalho Leite                         | sabella Carvalho Leite | 773012 |
+| Team Member    | Gustavo Henrique Funari da Silva Oliveira       | Funari Gustavo | funari_guh |
+| Team Member    | Manuela Maria Magalhães Mendes                  | Manuela Mendes | manu-magalhaes |
 
 ## Objetivo do Projeto
 
