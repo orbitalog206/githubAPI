@@ -132,5 +132,6 @@ Responsável pelo acompanhamento de desempenho e tomada de decisões.
 
 https://github.com/user-attachments/assets/7ecf2edf-3d53-433b-bbba-151d1c38adc2
 
-* 🔄 Fluxos de navegação
-* 🎥 Vídeo demonstrativo do MVP
+https://github.com/user-attachments/assets/6630e1ed-a484-4f3b-87f2-eed5ee22fa3c
+
+
