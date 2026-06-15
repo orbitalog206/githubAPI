@@ -98,5 +98,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|----------|-----------|
 |         01        | 27/04/2026 | Entregue | https://github.com/orbitalog206/githubAPI/blob/main/MVP/sp1.md          |
 |         02        | 18/05/2026 | Entregue | https://github.com/orbitalog206/githubAPI/blob/main/MVP/sp2.md          |
-|         03        | 15/06/2026 | Entregue |    MVP    |
+|         03        | 15/06/2026 | Entregue | https://github.com/orbitalog206/githubAPI/blob/main/MVP/sp3.md          |
 | Feira de Soluções | 25/06/2026 | a fazer  |    MVP    |
