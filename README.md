@@ -96,7 +96,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 |       Sprint      |  Previsão  |  Status  | Histórico |
 |-------------------|------------|----------|-----------|
-|         01        | 27/04/2026 | Entregue |           |
+|         01        | 27/04/2026 | Entregue |    MVP    |
 |         02        | 18/05/2026 | Entregue |    MVP    |
-|         03        | 15/06/2026 | a fazer  |    MVP    |
+|         03        | 15/06/2026 | Entregue |    MVP    |
 | Feira de Soluções | 25/06/2026 | a fazer  |    MVP    |
