@@ -25,7 +25,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 |----------------|-------------------------------------------------|-----------------------------|
 | Product Owner  | Nicolly de Araújo Silva                         | Nicolly Araújo | nicollyaraujo-del |
 | Scrum Master   | João Felipe Góes de Oliveira                    | Funari Gustavo | funari_guh |
-| Team Member    | Inaê Tais da Rosa Silva                         |  |
+| Team Member    | Inaê Tais da Rosa Silva                         |  inaetais-stack |inaê rosa |
 | Team Member    | Fernanda Fernandes Caldi Palma                  | Fernanda Caldi | fernandacaldi |
 | Team Member    | Isabella Carvalho Leite                         | sabella Carvalho Leite | 773012 |
 | Team Member    | Gustavo Henrique Funari da Silva Oliveira       | Funari Gustavo | funari_guh |
