@@ -127,5 +127,6 @@ Responsável por acompanhar desempenho entre municípios e regiões.
 ---
 
 # 📂 Anexos / Evidências
-<img width="869" height="486" alt="image" src="https://github.com/user-attachments/assets/4c01854a-b825-45fb-91b7-18b7d6cb5468" />
+<img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/2b82785c-4f89-4ce3-b0cd-325961d0d71a" />
+
 
