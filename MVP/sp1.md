@@ -127,7 +127,5 @@ Responsável por acompanhar desempenho entre municípios e regiões.
 ---
 
 # 📂 Anexos / Evidências
+<img width="869" height="486" alt="image" src="https://github.com/user-attachments/assets/4c01854a-b825-45fb-91b7-18b7d6cb5468" />
 
-* 📸 Capturas de tela do dashboard
-* 📊 Exemplos de indicadores
-* 🎥 Demonstração do funcionamento do MVP
