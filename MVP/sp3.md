@@ -130,6 +130,7 @@ Responsável pelo acompanhamento de desempenho e tomada de decisões.
 
 # 📂 Anexos / Evidências
 
-* 📸 Capturas de tela do dashboard
+https://github.com/user-attachments/assets/7ecf2edf-3d53-433b-bbba-151d1c38adc2
+
 * 🔄 Fluxos de navegação
 * 🎥 Vídeo demonstrativo do MVP
